@@ -1,0 +1,14 @@
+<svg viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+  <text x="100" y="25" text-anchor="middle" id="text">
+    C<animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="0s" fill="freeze" />S
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="1s" fill="freeze" />o
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="2s" fill="freeze" />d
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="3s" fill="freeze" />e
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="4s" fill="freeze" />S
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="5s" fill="freeze" />w
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="6s" fill="freeze" />i
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="7s" fill="freeze" />t
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="8s" fill="freeze" />c
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="9s" fill="freeze" />h
+  </text>
+</svg>
